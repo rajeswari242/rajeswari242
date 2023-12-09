@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeswari242
 - 👀 I’m interested in ..development .
-- 🌱 I’m currently learning ..fullstack java.
+- 🌱 I’m pursuing my masters in computer science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
